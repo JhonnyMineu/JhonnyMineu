@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou o Jhonny</h1>
-- 🔭 Estou trabalhando com tratamento de dados e visualização **Analise de Dados**
+- 🔭 Estou trabalhando com a **resolução de problemas e agregação de valor** através de dados
 
-- 🌱 Atualmente estou estudando **PostgreSQL e Storyteling**
+- 🌱 Atualmente estou estudando **WebScraping, Business Intelligence e Data Analytics**
 
-- 💬 Me pergunte sobre **Power BI, SQL, Python e Excel**
+- 💬 Me pergunte sobre como podemos **gerar valor** a partir dos **dados**
 
-- 📫 Você me encontra enviando e-mail para: **jhow_vdr@hotmail.com**
+- 📫 Você me encontra enviando e-mail para: **jhonny.mineu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
