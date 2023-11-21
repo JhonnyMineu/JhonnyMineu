@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Jhonny</h1>
-- 🔭 Estou trabalhando com a **resolução de problemas e agregação de valor** através de dados
+- 🔭 Estou trabalhando com resolução de problemas e agregação de valor através de dados
 
 - 🌱 Atualmente estou estudando **WebScraping, Business Intelligence e Data Analytics**
 
